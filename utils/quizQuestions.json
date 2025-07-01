@@ -1,0 +1,454 @@
+{
+  "questions": [
+    {
+      "_id": "easy_001",
+      "question": "3 + 2",
+      "options": [5, 4, 6, 3],
+      "correctAnswer": 5,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_002",
+      "question": "7 - 3",
+      "options": [4, 5, 3, 6],
+      "correctAnswer": 4,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_003",
+      "question": "4 + 1",
+      "options": [5, 4, 6, 3],
+      "correctAnswer": 5,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_004",
+      "question": "8 - 2",
+      "options": [6, 7, 5, 8],
+      "correctAnswer": 6,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_005",
+      "question": "2 + 3",
+      "options": [5, 4, 6, 7],
+      "correctAnswer": 5,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_006",
+      "question": "9 - 4",
+      "options": [5, 6, 4, 7],
+      "correctAnswer": 5,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_007",
+      "question": "1 + 6",
+      "options": [7, 6, 8, 5],
+      "correctAnswer": 7,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_008",
+      "question": "10 - 3",
+      "options": [7, 8, 6, 9],
+      "correctAnswer": 7,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_009",
+      "question": "5 + 2",
+      "options": [7, 6, 8, 5],
+      "correctAnswer": 7,
+      "operation": "addition",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_010",
+      "question": "6 - 1",
+      "options": [5, 6, 4, 7],
+      "correctAnswer": 5,
+      "operation": "subtraction",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_011",
+      "question": "2 × 3",
+      "options": [6, 5, 7, 4],
+      "correctAnswer": 6,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_012",
+      "question": "4 × 2",
+      "options": [8, 6, 10, 7],
+      "correctAnswer": 8,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_013",
+      "question": "8 ÷ 2",
+      "options": [4, 3, 5, 6],
+      "correctAnswer": 4,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_014",
+      "question": "10 ÷ 5",
+      "options": [2, 3, 1, 4],
+      "correctAnswer": 2,
+      "operation": "division",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "easy_015",
+      "question": "3 × 1",
+      "options": [3, 2, 4, 1],
+      "correctAnswer": 3,
+      "operation": "multiplication",
+      "difficulty": "easy",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_001",
+      "question": "15 + 23",
+      "options": [38, 37, 39, 36],
+      "correctAnswer": 38,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_002",
+      "question": "45 - 18",
+      "options": [27, 26, 28, 25],
+      "correctAnswer": 27,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_003",
+      "question": "7 × 8",
+      "options": [56, 54, 58, 52],
+      "correctAnswer": 56,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_004",
+      "question": "72 ÷ 9",
+      "options": [8, 7, 9, 6],
+      "correctAnswer": 8,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_005",
+      "question": "34 + 29",
+      "options": [63, 62, 64, 61],
+      "correctAnswer": 63,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_006",
+      "question": "81 - 35",
+      "options": [46, 45, 47, 44],
+      "correctAnswer": 46,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_007",
+      "question": "9 × 6",
+      "options": [54, 52, 56, 50],
+      "correctAnswer": 54,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_008",
+      "question": "84 ÷ 12",
+      "options": [7, 6, 8, 5],
+      "correctAnswer": 7,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_009",
+      "question": "56 + 37",
+      "options": [93, 92, 94, 91],
+      "correctAnswer": 93,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_010",
+      "question": "92 - 48",
+      "options": [44, 43, 45, 42],
+      "correctAnswer": 44,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_011",
+      "question": "11 × 7",
+      "options": [77, 75, 79, 73],
+      "correctAnswer": 77,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_012",
+      "question": "96 ÷ 8",
+      "options": [12, 11, 13, 10],
+      "correctAnswer": 12,
+      "operation": "division",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_013",
+      "question": "67 + 28",
+      "options": [95, 94, 96, 93],
+      "correctAnswer": 95,
+      "operation": "addition",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_014",
+      "question": "75 - 39",
+      "options": [36, 35, 37, 34],
+      "correctAnswer": 36,
+      "operation": "subtraction",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "medium_015",
+      "question": "8 × 9",
+      "options": [72, 70, 74, 68],
+      "correctAnswer": 72,
+      "operation": "multiplication",
+      "difficulty": "medium",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_001",
+      "question": "127 + 89",
+      "options": [216, 215, 217, 214],
+      "correctAnswer": 216,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_002",
+      "question": "234 - 156",
+      "options": [78, 77, 79, 76],
+      "correctAnswer": 78,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_003",
+      "question": "15 × 12",
+      "options": [180, 178, 182, 176],
+      "correctAnswer": 180,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_004",
+      "question": "144 ÷ 12",
+      "options": [12, 11, 13, 10],
+      "correctAnswer": 12,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_005",
+      "question": "189 + 267",
+      "options": [456, 455, 457, 454],
+      "correctAnswer": 456,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_006",
+      "question": "345 - 178",
+      "options": [167, 166, 168, 165],
+      "correctAnswer": 167,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_007",
+      "question": "18 × 14",
+      "options": [252, 250, 254, 248],
+      "correctAnswer": 252,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_008",
+      "question": "168 ÷ 14",
+      "options": [12, 11, 13, 10],
+      "correctAnswer": 12,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_009",
+      "question": "256 + 189",
+      "options": [445, 444, 446, 443],
+      "correctAnswer": 445,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_010",
+      "question": "412 - 235",
+      "options": [177, 176, 178, 175],
+      "correctAnswer": 177,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_011",
+      "question": "16 × 15",
+      "options": [240, 238, 242, 236],
+      "correctAnswer": 240,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_012",
+      "question": "195 ÷ 15",
+      "options": [13, 12, 14, 11],
+      "correctAnswer": 13,
+      "operation": "division",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_013",
+      "question": "378 + 245",
+      "options": [623, 622, 624, 621],
+      "correctAnswer": 623,
+      "operation": "addition",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_014",
+      "question": "501 - 287",
+      "options": [214, 213, 215, 212],
+      "correctAnswer": 214,
+      "operation": "subtraction",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    },
+    {
+      "_id": "hard_015",
+      "question": "19 × 13",
+      "options": [247, 245, 249, 243],
+      "correctAnswer": 247,
+      "operation": "multiplication",
+      "difficulty": "hard",
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-01-01T00:00:00.000Z"
+    }
+  ]
+}
